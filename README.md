@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá como vai? meu nome é <a href="https://www.linkedin.com/in/jos%C3%A9-victor-da-silva-izidorio-2992b221a/"><i>José Victor</i></a> 😃</h1>
-  <p align="center">Estudo Desenvolvimento Web na <a href=https://blueedtech.com.br/?gclid=CjwKCAiAg6yRBhBNEiwAeVyL0L3B9Y52RV8G_0udNHmcuJ1Qsnojdj8Es8CsPJ8g4WsR4Ch4JSq00hoCBA0QAvD_BwE\><i>Blue Edtech</i></a> e compartilho meus projetos nesse github<span> 👉🏽️</span>
+  <p align="center">Estudo Desenvolvimento Web focado em Back-end na <a href=https://blueedtech.com.br/?gclid=CjwKCAiAg6yRBhBNEiwAeVyL0L3B9Y52RV8G_0udNHmcuJ1Qsnojdj8Es8CsPJ8g4WsR4Ch4JSq00hoCBA0QAvD_BwE\><i>Blue Edtech</i></a> e compartilho meus projetos nesse github<span> 👉🏽️</span>
   <a align="rigth"  href="https://github.com/JVictor1604/C011-M01-LAP/" target="_blank">
     <img width="10%" align="center" valign="middle" src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" target="_blank" />
   </a><br>
@@ -40,7 +40,18 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  uses: Platane/snk@v2.0.0-rc.1
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
   
 </div>
 
