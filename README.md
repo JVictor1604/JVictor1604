@@ -1,8 +1,20 @@
 <div>
-  <h1 align="center">Olá como vai? meu nome é <a href="https://www.linkedin.com/in/jos%C3%A9-victor-da-silva-izidorio-2992b221a/"><i>José Victor</i></a> 😃</h1>
-  <p align="center">Estudo Desenvolvimento Web focado em Back-end na <a href=https://blueedtech.com.br/?gclid=CjwKCAiAg6yRBhBNEiwAeVyL0L3B9Y52RV8G_0udNHmcuJ1Qsnojdj8Es8CsPJ8g4WsR4Ch4JSq00hoCBA0QAvD_BwE\><i>Blue Edtech</i></a> e compartilho meus projetos nesse github<span> 👉🏽️</span>
-  <a align="rigth"  href="https://github.com/JVictor1604/C011-M01-LAP/" target="_blank">
+  <h1 align="center">Olá, meu nome é <a href="https://www.linkedin.com/in/jos%C3%A9-victor-da-silva-izidorio-2992b221a/"><i>José Victor</i></a> </h1>
+  <p align="center">Sou um cientista em formação pela <a href= "https://ilum.cnpem.br"> Ilum – Escola de Ciência </a> , localizada em Campinas, São Paulo. Natural de João Pessoa, Paraíba, tenho formação técnica em eletrotécnica pelo Instituto Federal da Paraíba (IFPB). Compartilho meus projetos aqui<span> 👉🏽️</span>
+  <a align="rigth"  href="https://github.com/JVictor1604" target="_blank">
     <img width="10%" align="center" valign="middle" src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png" target="_blank" />
+
+
+  ## Projetos Destacados
+
+### Arriscando a Matemática 🎲
+
+Participei do projeto "<a href="https://github.com/leticiaalmnunes/Arriscando-a-matematica">Arriscando a Matemática</a>", que visa ensinar matemática por meio de jogos didáticos. Adaptamos jogos como "Cidade Dorme Criptografado", "Mega Senha" e "Impostor" para tornar o aprendizado mais lúdico e interativo.
+
+### Automação do Experimento de Espalhamento de Rayleigh 🔬
+
+Contribuí para o desenvolvimento de um código que automatiza um experimento destinado a estudar o espalhamento de Rayleigh. O experimento envolve a mistura de gotas de leite em água, com medições realizadas por um sensor conectado ao Arduino. Os dados coletados são enviados para um computador, permitindo a análise da dispersão da luz. <a href="https://github.com/JVictor1604/Automa-o-do-experimento-Rayleight">Veja o projeto no GitHub</a>
+  
   </a><br>
   <p align="center">Me siga para acompanhar meus projetos e compartilhar seu aprendizado comigo! 😉️</h2>
 </div>
